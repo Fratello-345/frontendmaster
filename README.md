@@ -5,26 +5,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Author](#author)
 
 
-
-
-
-
 ### Links
-
 Website Link: 
 
 
-
-
 ### Built with
-
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
@@ -33,17 +24,7 @@ Website Link:
 
 ### What I learned
 I learned how to use HTML symantics.All the css format was given to me as a template , i just had to but the HTML symantics to it. 
-And mach the class name with the css selector.
-
-
-
-
-
-
-
-
-
-
+And match the class name with the css selector.
 
 
 ## Author
