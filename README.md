@@ -14,9 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## Overview
 
-![finalresult.png] [finalresult.png]
 
 ### Links
 
@@ -50,7 +48,7 @@ And mach the class name with the css selector.
 
 ## Author
 
-- Author [Fraol]
+- Author Fratello-345
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 
